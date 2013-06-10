@@ -34,7 +34,7 @@ nosetests.xml
 .project
 .pydevproject
 .settings
-.idea/*
+.idea
 
 # Sphinx documentation
 _build
